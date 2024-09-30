@@ -186,6 +186,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-build-info-plugin](https://github.com/ksoichiro/gradle-build-info-plugin) - Include build information such as Git commit ID to your JAR.
 - [gradle-replacer](https://github.com/ksoichiro/gradle-replacer) - Provide a minimalistic template engine feature.
 
+### Optimization
+
+- [vgo-plugin](https://github.com/jzbrooks/vgo) - Optimize vector graphics—including svgs and Android vector drawables.
+
 ### Releasing
 
 - [gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin) - Provide SSH facilities for continuous delivery.
